@@ -10,6 +10,12 @@ Contributors:
 
 ### Clone the repository
 
+First clone the repository with Github desktop or through a CLI with the following command:
+
+```bash
+git clone https://github.com/dibalokechanda/shapley_mssc_6250.git
+```
+
 ### Package Installation Manually 
 
 For the code implementation, you need install the following libraries
@@ -32,9 +38,11 @@ Make sure you are in the root of the cloned repo and run the following command:
 pip install -r requirements.txt
 ```
 
-# Lasso
+# Description of the contents
+
+### Lasso
 Contains code to perform Lasso regression with simulated data.
 
-# Notebooks 
+### Notebooks 
 Contains code implementing the [SHAP](https://shap.readthedocs.io/en/latest/) library.
 
